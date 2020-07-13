@@ -1,4 +1,4 @@
 # email-1
-Верстка Email письма
+первая верстка Email письма
 
 https://artemsweb.github.io/email-1/
